@@ -1,0 +1,26 @@
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10;
+    
+}
+
+h1{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+label{
+    font-family: Calibri;
+}
+
+.input-div{
+    margin: 10px;
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
