@@ -1,3 +1,1 @@
-This project changes Celsius to Fahrenheit 
-next
-second next
+This project changes Celsius to Fahrenheit and vice versa
